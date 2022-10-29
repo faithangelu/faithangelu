@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 💞️ I’m looking to collaborate on ----
 - 📫 reach me at linkedin @ https://www.linkedin.com/in/christine-faith-angelou-hidalgo-46950a164/ 
+- 🌐 view my portfolio: https://faithangelu.github.io
 
 <!---
 faithangelu/faithangelu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
